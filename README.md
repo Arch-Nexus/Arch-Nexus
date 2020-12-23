@@ -1,4 +1,6 @@
-#The home page of Arch_Nexus.
+### The home page of Arch_Nexus.
+
+Welcome friends.
 
 
 ## Welcome to GitHub Pages
